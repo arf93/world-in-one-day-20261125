@@ -1,8 +1,8 @@
 # World in One Day — Wednesday 25 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261125-0f2a4a)](https://make.fun/bounty/news-image-20261125)
-[![make.fun entry](https://img.shields.io/badge/entry-1024x1024%20PNG-176132)](https://github.com/arf93/world-in-one-day-20261125)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/arf93/world-in-one-day-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/arf93/world-in-one-day-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 One image that sums up the world's news of **Wednesday 25 November 2026**:
 33 stories, 7 regions, 14 fields — every one happened, or was first reported,
